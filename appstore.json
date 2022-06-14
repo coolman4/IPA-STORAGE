@@ -12,22 +12,22 @@
             "versionDescription": "• Bugfixes",
             "downloadURL": "https://firebasestorage.googleapis.com/v0/b/channels-3c68e.appspot.com/o/channels19.ipa?alt=media&token=012e1ad4-89b7-4843-b3be-94631159acf3",
             "localizedDescription": "RetroArach Allows you to emulate Game engines, Media Players and Emulators on your IOS Device.",
-            "iconURL": "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/appicon.png",
+            "iconURL": "https://raw.githubusercontent.com/coolman4/IPA-STORAGE/main/RetroArch/iconfile.png",
             "tintColor": "0093E9",
             "size": 22000000,
             "screenshotURLs": [
                 "https://raw.githubusercontent.com/coolman4/IPA-STORAGE/main/RetroArch/Images/Image-1.png",
-                "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/screen2.png",
-                "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/screen3.png",
-                "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/screen4.png"
+                "https://raw.githubusercontent.com/coolman4/IPA-STORAGE/main/RetroArch/Images/Image-2.png",
+                "https://raw.githubusercontent.com/coolman4/IPA-STORAGE/main/RetroArch/Images/Image-3.png",
+                "https://raw.githubusercontent.com/coolman4/IPA-STORAGE/main/RetroArch/Images/Image-4.png"
             ]
         }
     ],
     "news": [
         {
-            "title": "Channels now available on AltStore!",
-            "identifier": "channels-x-altstore",
-            "caption": "Live TV you're used to, better.",
+            "title": "Retro Arch Now added to the Appstore",
+            "identifier": "new-app-update",
+            "caption": "Emulaters in your hands.",
             "tintColor": "0093E9",
             "imageURL": "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/banner.png",
             "appID": "com.channelsapp.channels",
