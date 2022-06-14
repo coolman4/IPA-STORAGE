@@ -11,7 +11,7 @@
             "versionDate": "2022-06-14T00:00:00-00:00",
             "versionDescription": "• Bugfixes",
             "downloadURL": "https://firebasestorage.googleapis.com/v0/b/channels-3c68e.appspot.com/o/channels19.ipa?alt=media&token=012e1ad4-89b7-4843-b3be-94631159acf3",
-            "localizedDescription": "RetroArach Allows you to emulate Game engines, Media Players and Emulators on your IOS Device.",
+            "localizedDescription": "RetroArch Allows you to emulate Game engines, Media Players and Emulators on your IOS Device.",
             "iconURL": "https://raw.githubusercontent.com/coolman4/IPA-STORAGE/main/RetroArch/iconfile.png",
             "tintColor": "0093E9",
             "size": 22000000,
@@ -30,7 +30,7 @@
             "caption": "Emulaters in your hands.",
             "tintColor": "0093E9",
             "imageURL": "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/banner.png",
-            "appID": "com.channelsapp.channels",
+            "appID": "com.btt.RetroArch",
             "date": "2021-03-24",
             "notify": true
         }
